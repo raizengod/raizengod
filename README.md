@@ -57,6 +57,9 @@ Me especializo en el diseño, ejecución y automatización de pruebas funcionale
 - [`pruebas_interfaz_usuario_(UI)`](https://github.com/raizengod/pruebas_interfaz_usuario_-UI-)  
   Proyecto enfocado en la automatización de pruebas de interfaz de usuario usando Playwright y Python.
 
+- [`pruebas_interfaz_usuario_(UI) + rendimiento`](https://github.com/raizengod/Playwright-Python_prueba_rendiemiento_basico.git)  
+  Proyecto enfocado en la automatización de pruebas de interfaz de usuario usando Playwright y Python para realizar pruebas automatizadas de rendimiento en aplicaciones web.
+
 ---
 
 ## 📫 Conecta conmigo
