@@ -48,16 +48,16 @@ Me especializo en el diseño, ejecución y automatización de pruebas funcionale
 
 ## 🌟 Proyectos Destacados
 
-- [`Playwright-Python_Swag-Labs`](https://github.com/raizengod/Playwright-Python_Swag-Labs)  
+- [`Prueba básica Playwright-Python_Swag-Labs`](https://github.com/raizengod/Playwright-Python_Swag-Labs)  
   Automatización de pruebas para Swag Labs utilizando Playwright y Python.
 
-- [`Playwright-Python_Automation-Testing-Practice`](https://github.com/raizengod/Playwright-Python_Automation-Testing-Practice)  
+- [`Prueba Playwright-Python_Automation-Testing-Practice`](https://github.com/raizengod/Playwright-Python_Automation-Testing-Practice)  
   Prácticas y ejemplos de automatización de testing con Playwright en Python.
   
-- [`pruebas_interfaz_usuario_(UI)`](https://github.com/raizengod/pruebas_interfaz_usuario_-UI-)  
+- [`Pruebas_interfaz_usuario_(UI)`](https://github.com/raizengod/pruebas_interfaz_usuario_-UI-)  
   Proyecto enfocado en la automatización de pruebas de interfaz de usuario usando Playwright y Python.
 
-- [`pruebas_interfaz_usuario_(UI) + rendimiento`](https://github.com/raizengod/Playwright-Python_prueba_rendiemiento_basico.git)  
+- [`Pruebas_interfaz_usuario_(UI) + rendimiento`](https://github.com/raizengod/Playwright-Python_prueba_rendiemiento_basico.git)  
   Proyecto enfocado en la automatización de pruebas de interfaz de usuario usando Playwright y Python para realizar pruebas automatizadas de rendimiento en aplicaciones web.
 
 ---
