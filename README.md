@@ -63,8 +63,8 @@ Me especializo en el diseño, ejecución y automatización de pruebas funcionale
 - [`Pruebas_de tabulación y descarga`](https://github.com/raizengod/Playwright-Python_prueba_tabulacion.git)  
   Proyecto enfocado en la automatización de pruebas de interfaz de usuario usando Playwright y Python para validar el orden de los campos al realizar tabulación, la descarga de archivo y posterior guardado en ruta especificada
 
-- [`NUEVA VERSIÓn: Prueba Playwright-Python_Automation-Testing-Practice`](https://github.com/raizengod/Playwright-Python_Automation-Testing-Practice-V2.git)  
-  Nueva verrsión de una Prácticas y ejemplos de automatización de testing con Playwright en Python, se aplicaron mejoras a las funciones globales y la los feature en conftest
+- [`NUEVA VERSIÓN: Prueba Playwright-Python_Automation-Testing-Practice`](https://github.com/raizengod/Playwright-Python_Automation-Testing-Practice-V2.git)  
+  Nueva verrsión de una práctica y ejemplos anterior de automatización de testing con Playwright en Python, se aplicaron mejoras a las funciones globales y la los feature en conftest
 
 ---
 
