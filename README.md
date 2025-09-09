@@ -48,7 +48,7 @@ Me especializo en el diseño, ejecución y automatización de pruebas funcionale
 ## 🌟 Proyectos Destacados
 Aquí se presenta una selección de mis proyectos más importantes, ordenados cronológicamente desde el más reciente hasta el más antiguo y, a su vez, reflejando el **creciente dominio de la herramienta** con el tiempo.
 
-1.  [`Framework de Automatización Avanzado con Playwright`](https://github.com/raizengod/Playwright-Python-Automation-Framework)
+1.  [`Framework de Automatización Avanzado con Playwright`](https://github.com/raizengod/Playwright-Python_Nuevo-Framework.git)
     Framework escalable que integra un modelo de objeto de página (POM) modular, gestión de múltiples entornos, generación dinámica de datos y reportería detallada con `pytest-reporter-html1`, demostrando la integración de pruebas de rendimiento.
 
 2.  [`NUEVA VERSIÓN: Prueba Playwright-Python_Automation-Testing-Practice`](https://github.com/raizengod/Playwright-Python_Automation-Testing-Practice-V2.git) 
