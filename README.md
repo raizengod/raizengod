@@ -21,8 +21,7 @@ Me especializo en el diseño, ejecución y automatización de pruebas funcionale
 ## 🛠️ Habilidades Técnicas
 
 - **Automatización:** Playwright (Python), Katalon Studio
-- **Tipos de prueba:** 
-  - Caja Negra (Funcionales)
+- **Tipos de prueba:** - Caja Negra (Funcionales)
   - Unitarias
   - Regresión
   - Integración
@@ -47,24 +46,28 @@ Me especializo en el diseño, ejecución y automatización de pruebas funcionale
 ---
 
 ## 🌟 Proyectos Destacados
+Aquí se presenta una selección de mis proyectos más importantes, ordenados cronológicamente desde el más reciente hasta el más antiguo y, a su vez, reflejando el **creciente dominio de la herramienta** con el tiempo.
 
-- [`Prueba básica Playwright-Python_Swag-Labs`](https://github.com/raizengod/Playwright-Python_Swag-Labs)  
-  Automatización de pruebas para Swag Labs utilizando Playwright y Python.
+1.  [`Framework de Automatización Avanzado con Playwright`](https://github.com/raizengod/Playwright-Python-Automation-Framework)
+    Framework escalable que integra un modelo de objeto de página (POM) modular, gestión de múltiples entornos, generación dinámica de datos y reportería detallada con `pytest-reporter-html1`, demostrando la integración de pruebas de rendimiento.
 
-- [`Prueba Playwright-Python_Automation-Testing-Practice`](https://github.com/raizengod/Playwright-Python_Automation-Testing-Practice)  
-  Prácticas y ejemplos de automatización de testing con Playwright en Python.
-  
-- [`Pruebas_interfaz_usuario_(UI)`](https://github.com/raizengod/pruebas_interfaz_usuario_-UI-)  
-  Proyecto enfocado en la automatización de pruebas de interfaz de usuario usando Playwright y Python.
+2.  [`NUEVA VERSIÓN: Prueba Playwright-Python_Automation-Testing-Practice`](https://github.com/raizengod/Playwright-Python_Automation-Testing-Practice-V2.git) 
+    Nueva versión de una práctica y ejemplos anterior de automatización de testing con Playwright en Python, se aplicaron mejoras a las funciones globales y a los feature en conftest.
 
-- [`Pruebas_interfaz_usuario_(UI) + rendimiento`](https://github.com/raizengod/Playwright-Python_prueba_rendiemiento_basico.git)  
-  Proyecto enfocado en la automatización de pruebas de interfaz de usuario usando Playwright y Python para realizar pruebas automatizadas de rendimiento en aplicaciones web.
+3.  [`Pruebas_interfaz_usuario_(UI) + rendimiento`](https://github.com/raizengod/Playwright-Python_prueba_rendiemiento_basico.git) 
+    Proyecto enfocado en la automatización de pruebas de interfaz de usuario usando Playwright y Python para realizar pruebas automatizadas de rendimiento en aplicaciones web.
 
-- [`Pruebas_de tabulación y descarga`](https://github.com/raizengod/Playwright-Python_prueba_tabulacion.git)  
-  Proyecto enfocado en la automatización de pruebas de interfaz de usuario usando Playwright y Python para validar el orden de los campos al realizar tabulación, la descarga de archivo y posterior guardado en ruta especificada
+4.  [`Pruebas_de tabulación y descarga`](https://github.com/raizengod/Playwright-Python_prueba_tabulacion.git) 
+    Proyecto enfocado en la automatización de pruebas de interfaz de usuario usando Playwright y Python para validar el orden de los campos al realizar tabulación, la descarga de archivo y posterior guardado en ruta especificada.
 
-- [`NUEVA VERSIÓN: Prueba Playwright-Python_Automation-Testing-Practice`](https://github.com/raizengod/Playwright-Python_Automation-Testing-Practice-V2.git)  
-  Nueva verrsión de una práctica y ejemplos anterior de automatización de testing con Playwright en Python, se aplicaron mejoras a las funciones globales y la los feature en conftest
+5.  [`Pruebas_interfaz_usuario_(UI)`](https://github.com/raizengod/pruebas_interfaz_usuario_-UI-) 
+    Proyecto enfocado en la automatización de pruebas de interfaz de usuario usando Playwright y Python.
+
+6.  [`Prueba Playwright-Python_Automation-Testing-Practice`](https://github.com/raizengod/Playwright-Python_Automation-Testing-Practice) 
+    Prácticas y ejemplos de automatización de testing con Playwright en Python.
+
+7.  [`Prueba básica Playwright-Python_Swag-Labs`](https://github.com/raizengod/Playwright-Python_Swag-Labs) 
+    Automatización de pruebas para Swag Labs utilizando Playwright y Python.
 
 ---
 
